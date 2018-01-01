@@ -1,6 +1,6 @@
 class Transfer
   # your code here
-  def initialize(name1,name2,ammount)
+  def initialize(sender,reciever,ammount)
 
   end
 end
