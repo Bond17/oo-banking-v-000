@@ -14,7 +14,7 @@ attr_accessor :sender,:receiver,:amount,:status
     if @sender.valid? && @receiver.valid?
       true
     else
-      valse
+      false
     end
   end
 end
